@@ -1,2 +1,3 @@
-agentpy >= 0.0.6
+agentpy>=0.0.6
 seaborn
+jupyter
