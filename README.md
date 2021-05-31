@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoelForamitti/agentpy_workshop/HEAD)
 
+**Attention: This workshop has been written for an old version of AgentPy (v0.0.7) and is not up to date**
+
 Interactive notebook with tutorials for the [agentpy](https://agentpy.readthedocs.io) package.  
 
 To run the notebook in a virtual environment, you can launch this repository in [binder](https://mybinder.org/v2/gh/JoelForamitti/agentpy_workshop/HEAD).
